@@ -14,8 +14,8 @@ El PI-01 del BootCamp de DataScien de Henry consiste en la realización de una A
 - Se eploran los datos para determinar las integridad de los diferentes dataframes, las columnas con datos nulos el contenido de las columnas.
 - Se comparan las columnas de los dataframes para verificar si es posibles concatenarlos
 - Se busca valores que no se encuentren adecuados para las columnas en las que se encuentran ubicados.
-  -Se reubican los valores a la columna de donde corresponden como en el caso de Hulu y Netflix.
-  -Se concatenan los dataframes en uno solo a fin de optimizar la transformación, teniendo presente que no seria necesario repetir el proceso 4 veces.
+- Se reubican los valores a la columna de donde corresponden como en el caso de Hulu y Netflix.
+- Se concatenan los dataframes en uno solo a fin de optimizar la transformación, teniendo presente que no seria necesario repetir el proceso 4 veces.
 - Se eliminan las columnas que no son necesarias o que no representan información importante para dar respuesta a la información requerida.
 - Se ajusta la columna 'duration' para facilitar la consulta de los datos.
   -Se buscan duplicados para determinar si es necesario la eliminación de estos.

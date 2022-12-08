@@ -1,0 +1,4 @@
+uvicorn[standard]==0.20.0
+fastapi[all]==0.88.0
+pandas==1.5.2
+SQLAlchemy==1.4.44

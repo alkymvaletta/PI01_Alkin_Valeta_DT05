@@ -32,11 +32,12 @@ El PI-01 del BootCamp de DataScien de Henry consiste en la realización de una A
 
 Las consultas se realizan siguiendo los siguientes parámetros una vez la API ya se encuentre ejecutandose:
 
-- Entrando al link `localhost:80:80/docs` y rellenando la información de acuerdo a la información que se requiera
-- `localhost:80:80/get_max_duration(año, plataforma, [min o season])`
-- `localhost:80:80/get_count_plataform(plataforma)`
-- `localhost:80:80/get_listedin(genero)`
-- `localhost:80:80/get_actor(plataforma, año)`
+- Entrando al link `https://pi01-alkin-val-prod-pi01-alkin-valeta-dt05-lbn1au.mo5.mogenius.io/docs` donde se encuentra desplegada la API y rellenando la información de acuerdo a la información que se requiera
+
+- /get_max_duration(año, plataforma, [min o season])
+- /get_count_plataform(plataforma)
+- /get_listedin(genero)
+- /get_actor(plataforma, año)
 
 ## Herramientas utilizadas
 

@@ -9,6 +9,8 @@ El PI-01 del BootCamp de DataScien de Henry consiste en la realización de una A
 ## Estapas del proyecto
 
 ### EDA y ETL
+  
+  <p align=center><img src=https://www.shutterstock.com/image-vector/etl-data-transformation-concept-raw-260nw-2150565821.jpg><p>
 
 - Incialmente se realiza la importación de los datos de cada plataforma en un dataframe por medio de la librería pandas.
 - Se eploran los datos para determinar las integridad de los diferentes dataframes, las columnas con datos nulos el contenido de las columnas.
